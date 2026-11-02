@@ -1,7 +1,3 @@
-# Analise-de-Dados-PNAE-2024
-Este repositório apresenta uma breve análise de dados oferecidos pela PNAE sobre repasses previstos para o ano de 2024 referente a merendas escolares do sistema público brasileiro.
-
-
 # Análise de Dados: Previsão de Repasse Financeiro do PNAE 2024
 
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
